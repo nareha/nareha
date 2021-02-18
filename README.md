@@ -1,5 +1,5 @@
 ### こんにちは!
-studying cs @ ucla
+i am a first-year undergraduate computer science student @ ucla
 
 <!--
 **nareha/nareha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
