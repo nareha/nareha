@@ -1,4 +1,4 @@
-### welcome to my github!
+### こんにちは!
 studying cs @ ucla
 
 <!--
