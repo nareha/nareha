@@ -1,6 +1,6 @@
 ## nice to meet you! 👋
 
-hey! i'm nareh, a computer science student at ucla (class of '24). ![Spinning Pokeball](./pokeball.gif)
+hey! i'm nareh, a computer science student at ucla (class of '24). <img src="./pokeball.gif" alt="Spinning Pokeball" width="50"/>
 
 <!--
 **nareha/nareha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
